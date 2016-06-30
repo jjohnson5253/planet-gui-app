@@ -5,3 +5,5 @@ There is also a dialog window that can be opened which allows user input of numb
 The main application is written in app.py, the main widget (information about planets) is written in widgets.py, and the dialog is written in dialogs.py
 
 This app was a test to try out some different uses of QT graphics programming.
+
+To run the app, run the app.py script.
